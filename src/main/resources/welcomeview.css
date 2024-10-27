@@ -1,0 +1,27 @@
+.sidepane {
+    -fx-background-color: linear-gradient(rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+
+.emailfield, .passwordfield {
+    -fx-border-radius: 50px;
+    -fx-border-color: linear-gradient(rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    -fx-background-color: #FFFFFF;
+    -fx-text-fill: #333333;
+}
+
+.readbutton, .writebutton, .loginbutton, .secondarylabel, .primaryview {
+    -fx-font-family: "Poppins";
+}
+
+.signin {
+    -fx-background-color: rgba(238,174,202,1);
+}
+
+.register {
+    -fx-background-color: rgba(148,187,233,1);
+}
+
+.vbox {
+    -fx-background-color: linear-gradient(rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
